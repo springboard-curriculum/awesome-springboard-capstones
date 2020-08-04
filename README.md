@@ -27,3 +27,4 @@ Place for collecting great projects/capstones from previous springboard students
 | [GitHub](https://github.com/nysportsfan/Gun-Violence-in-the-US) | "Analyzing Gun Violence in the US" |
 | [GitHub](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Final%20Report.pdf) | "Predicting Building Permit Issue Time" |
 | [App](https://elon-tesla.herokuapp.com/) | "Tesla Price Prediction Web App" |
+| [GitHub](https://github.com/berenice-d/Natality-project/blob/master/Natality%20-%20final%20report.pdf) | A small data science project reveals how public health issues and socioeconomic difficulties go hand in hand. |
