@@ -14,7 +14,7 @@ Place for collecting great projects/capstones from previous springboard students
 | [GitHub](https://github.com/DMacGillivray/ontario-peak-power-forecasting) | "Predicting Daily Peak Electricity Demand during Ontario Summers" |
 | [GitHub](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_final_report.ipynb) | "Building a Hybrid Product Recommendation System for Amazon using Customer Ratings and Reviews" |
 | [GitHub](https://github.com/shamafarabi/NLP-Predict-Cast-Member-of-the-TV-Show-Friends) | "Multiclass Text Classification for Identifying TV Show Characters" |
-| [GitHub](https://github.com/connormca12/Springboard-Projects/blob/master/Capstone-1/Capstone%20Project%201%20-%20Final%20Report%20-%20Connor%20McAnuff.pdf) | "Predicting Short Term Solar Energy Production" |
+| [GitHub](https://github.com/connormca12/Springboard-Projects/blob/master/Capstone-1/Capstone%20Project%201%20-%20Final%20Report%20-%20Connor%20McAnuff.pdf) [YouTube](https://www.youtube.com/watch?v=DA6fOjP374w) | "Predicting Short Term Solar Energy Production" |
 | [GitHub](https://github.com/JLorenzP/Springboard-Capstone-I) | Pet Adoption |
 | [GitHub](https://github.com/pratha19/Hourly_Energy_Consumption_Prediction) | This project focuses on predicting energy consumption of the entire region in southern CA served by the SDGE (San Diego Gas and electric) utility (which comes under CAISO) based on the past 5 years of hourly energy consumption data. |
 | [GitHub](https://github.com/dametreusv/world_development_indicators/blob/master/WDI_final_report_.ipynb) | "Predicting Income Groups Using World Development Indicators" |
@@ -28,3 +28,13 @@ Place for collecting great projects/capstones from previous springboard students
 | [GitHub](https://github.com/dtse91/Springboard/blob/master/Capstone%201%20Project/Capstone%20Project%201%20Final%20Report.pdf) | "Predicting Building Permit Issue Time" |
 | [App](https://elon-tesla.herokuapp.com/) | "Tesla Price Prediction Web App" |
 | [GitHub](https://github.com/berenice-d/Natality-project/blob/master/Natality%20-%20final%20report.pdf) | A small data science project reveals how public health issues and socioeconomic difficulties go hand in hand. |
+| [GitHub](https://github.com/georgecctang/capstone_project_1/blob/master/reports/George_CP1_Final_Report.pdf) | "Predicting the nightly price of Toronto's AirBnB listings" |
+| [Blog](https://medium.com/@romanm111987/predicting-stock-market-crashes-with-statistical-machine-learning-techniques-and-neural-networks-b756d9b48497) | "Predicting stock market crashes with statistical machine learning techniques and neural networks" |
+| [Blog](https://medium.com/swlh/investigating-racial-biases-in-terry-stops-in-seattle-with-machine-learning-9a3b5febd60e) | "Investigating Racial Biases in Seattle Terry Stop Data with Machine Learning" |
+| [Blog](https://danielhanbitlee.github.io/opioid_mortality/) | "Predicting US County Level Opioid Overdose Mortality Rate" |
+| [GitHub](https://github.com/anxin16/Capstone-Project-2/tree/master/Capstone-Report) | "Factors associated with differences in Life Expectancy across the United States" |
+| [GoogleDoc](https://docs.google.com/document/d/1PeytnNl9ZLkPi8tanw_IT_ZuoPgl4aw7LUhrJuOxRpg/edit) | "Building an expected goals model from shot-event data" |
+| [GitHub](https://github.com/LisaATaylor/naip-classify) | "Satellite Imagery Classification with Deep Learning" |
+| [GitHub](https://nbviewer.jupyter.org/github/shamafarabi/Capstone_1_Book_Recommendation/blob/master/Milestone%20Report/Milestone%20Report.ipynb) | "Collaborative Filtering Based Book Recommendation Engine" |
+| [GitHub](https://github.com/desai32/Springboard/blob/master/Mental%20Health%20in%20Technology%20Industry.pdf) | "Mental Health in Technology Industry" |
+| [GoogleDoc](https://drive.google.com/file/d/1NuXf9FF8GhiQQZXWKgHn4NYyJvLyG8XH/view) | "Deep Neural Network for Weather Time Series Forcasting" |
