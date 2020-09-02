@@ -38,3 +38,5 @@ Place for collecting great projects/capstones from previous springboard students
 | [GitHub](https://nbviewer.jupyter.org/github/shamafarabi/Capstone_1_Book_Recommendation/blob/master/Milestone%20Report/Milestone%20Report.ipynb) | "Collaborative Filtering Based Book Recommendation Engine" |
 | [GitHub](https://github.com/desai32/Springboard/blob/master/Mental%20Health%20in%20Technology%20Industry.pdf) | "Mental Health in Technology Industry" |
 | [GoogleDoc](https://drive.google.com/file/d/1NuXf9FF8GhiQQZXWKgHn4NYyJvLyG8XH/view) | "Deep Neural Network for Weather Time Series Forcasting" |
+| [GitHub](https://github.com/lasyabheemendra/Sprigboard-DatascienceProjects/tree/master/Capstone1_US-Wildfire-Prediction) | "US Wildfire Prediction" |
+
