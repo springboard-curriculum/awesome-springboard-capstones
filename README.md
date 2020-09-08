@@ -3,7 +3,7 @@ Place for collecting great projects/capstones from previous springboard students
 
 ## Resources
 
-| Link  | Notes  |
+| Link  | Notes
 |---|---|
 | [Blog](https://jvhuang1786.github.io/) | Site of a past student who is very active and has some great capstones |
 | [GitHub](https://github.com/LisaATaylor/Rideshare) | "Machine Learning with the Chicago Rideshare "Trips" Dataset" |
@@ -39,4 +39,5 @@ Place for collecting great projects/capstones from previous springboard students
 | [GitHub](https://github.com/desai32/Springboard/blob/master/Mental%20Health%20in%20Technology%20Industry.pdf) | "Mental Health in Technology Industry" |
 | [GoogleDoc](https://drive.google.com/file/d/1NuXf9FF8GhiQQZXWKgHn4NYyJvLyG8XH/view) | "Deep Neural Network for Weather Time Series Forcasting" |
 | [GitHub](https://github.com/lasyabheemendra/Sprigboard-DatascienceProjects/tree/master/Capstone1_US-Wildfire-Prediction) | "US Wildfire Prediction" |
+| [Deck](https://docs.google.com/presentation/d/1034MHY-BIa1MYBNChkOpl3GlVxD0ZtwbV8zoKQwSotI/edit#slide=id.p), [Report](https://drive.google.com/file/d/1ZdsWbX4VsiD6wMjic_lAjuNo_9WTPhTL/view) | "Predict Poverty by Satellite Imagery and Deep Learning" |
 
