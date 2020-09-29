@@ -41,4 +41,4 @@ Place for collecting great projects/capstones from previous springboard students
 | [GitHub](https://github.com/lasyabheemendra/Sprigboard-DatascienceProjects/tree/master/Capstone1_US-Wildfire-Prediction) | "US Wildfire Prediction" |
 | [Deck](https://docs.google.com/presentation/d/1034MHY-BIa1MYBNChkOpl3GlVxD0ZtwbV8zoKQwSotI/edit#slide=id.p), [Report](https://drive.google.com/file/d/1ZdsWbX4VsiD6wMjic_lAjuNo_9WTPhTL/view) | "Predict Poverty by Satellite Imagery and Deep Learning" |
 | [GitHub](https://github.com/teamHackTheBay/hackTheBay) | "Analysis of Total Nitrogen Water Pollution Using Land and Air Data" |
-
+| [Blog](https://towardsdatascience.com/anomaly-detection-in-time-series-sensor-data-86fd52e62538) | "Anomaly Detection in Time Series Sensor Data" |
