@@ -42,3 +42,4 @@ Place for collecting great projects/capstones from previous springboard students
 | [Deck](https://docs.google.com/presentation/d/1034MHY-BIa1MYBNChkOpl3GlVxD0ZtwbV8zoKQwSotI/edit#slide=id.p), [Report](https://drive.google.com/file/d/1ZdsWbX4VsiD6wMjic_lAjuNo_9WTPhTL/view) | "Predict Poverty by Satellite Imagery and Deep Learning" |
 | [GitHub](https://github.com/teamHackTheBay/hackTheBay) | "Analysis of Total Nitrogen Water Pollution Using Land and Air Data" |
 | [Blog](https://towardsdatascience.com/anomaly-detection-in-time-series-sensor-data-86fd52e62538) | "Anomaly Detection in Time Series Sensor Data" |
+| [Blog](https://adriensaremi.medium.com/develop-a-image-to-image-translation-model-to-capture-local-interactions-in-mechanical-networks-9c2f45230849) | "Develop an Image-to-Image Translation Model to Capture Local Interactions in Mechanical Networks (GAN)" |
