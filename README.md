@@ -44,3 +44,4 @@ Place for collecting great projects/capstones from previous springboard students
 | [Blog](https://towardsdatascience.com/anomaly-detection-in-time-series-sensor-data-86fd52e62538) | "Anomaly Detection in Time Series Sensor Data" |
 | [Blog](https://adriensaremi.medium.com/develop-a-image-to-image-translation-model-to-capture-local-interactions-in-mechanical-networks-9c2f45230849) | "Develop an Image-to-Image Translation Model to Capture Local Interactions in Mechanical Networks (GAN)" |
 | [Blog](https://towardsdatascience.com/extractive-summarization-using-bert-966e912f4142) | "Extractive Summarization using BERT" |
+| [GitHub](https://github.com/jvhuang1786/teslaElonStockpred) | "Using Elon's Tweets to Predict Tesla Stock Price" |
