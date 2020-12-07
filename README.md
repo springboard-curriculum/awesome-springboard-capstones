@@ -45,3 +45,6 @@ Place for collecting great projects/capstones from previous springboard students
 | [Blog](https://adriensaremi.medium.com/develop-a-image-to-image-translation-model-to-capture-local-interactions-in-mechanical-networks-9c2f45230849) | "Develop an Image-to-Image Translation Model to Capture Local Interactions in Mechanical Networks (GAN)" |
 | [Blog](https://towardsdatascience.com/extractive-summarization-using-bert-966e912f4142) | "Extractive Summarization using BERT" |
 | [GitHub](https://github.com/jvhuang1786/teslaElonStockpred) | "Using Elon's Tweets to Predict Tesla Stock Price" |
+| [Deck](https://github.com/yoyo6022/Detecting_Potential_Candidate_Springboard_Capstone2/blob/master/reports/Capstone2_Presentation.pdf) [Report](https://github.com/yoyo6022/Detecting_Potential_Candidate_Springboard_Capstone2/blob/master/reports/Capstone2%20-%20Final%20Report.pdf) | "Detecting Potential Candidates Who are Looking for New Job" |
+
+
