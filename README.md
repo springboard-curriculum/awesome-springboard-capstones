@@ -49,3 +49,4 @@ Place for collecting great projects/capstones from previous springboard students
 | [Report](https://github.com/richasethi3/CVD_Prediction/blob/master/Presentation%20and%20Report/CVD_prediction.pdf) | "Development and Validation of Cardiovascular Disease Risk Prediction Tool: A Machine Learning Approach" |
 | [YouTube](https://www.youtube.com/watch?v=04svmI8TTOY&feature=youtu.be) [GitHub](https://github.com/chrisjm/brewery-review-nlp) | "Brewery Review Analysis with Natural Language Processing (NLP) and Named Entity Recognition (NER)" |
 | [GitHub](https://github.com/zwimpee/CXResnet) | "This project is an attempt to produce an image classification model that can distinguish between chest X-rays labeled as either normal, pneumonia, or COVID-19" |
+| [GitHub](https://github.com/yoyo6022/Sales-Analyzing-and-Weekly-Sales-Forecasting-for-Drug-Store-Rossmann/) | "Sales Analyzing and Weekly Sales Forecasting for Drug Store Rossmann" |
