@@ -51,4 +51,4 @@ Place for collecting great projects/capstones from previous springboard students
 | [GitHub](https://github.com/zwimpee/CXResnet) | "This project is an attempt to produce an image classification model that can distinguish between chest X-rays labeled as either normal, pneumonia, or COVID-19" |
 | [GitHub](https://github.com/yoyo6022/Sales-Analyzing-and-Weekly-Sales-Forecasting-for-Drug-Store-Rossmann/) | "Sales Analyzing and Weekly Sales Forecasting for Drug Store Rossmann" |
 | [GitHub](https://github.com/reppertj/image-captioning) | "Image Captioning in Pytorch" By [reppertj](https://github.com/reppertj) |
-
+| [Blog](https://learn.springboard.com/school-of-data/white-paper/how-a-machine-learning-algorithm-helped-make-hurricane-damage-assessments-safer-cheaper-and-more-effective) | "How a Machine Learning Algorithm Helped Make Hurricane Damage Assessments Safer, Cheaper, and More Effective" |
