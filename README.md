@@ -52,3 +52,5 @@ Place for collecting great projects/capstones from previous springboard students
 | [GitHub](https://github.com/yoyo6022/Sales-Analyzing-and-Weekly-Sales-Forecasting-for-Drug-Store-Rossmann/) | "Sales Analyzing and Weekly Sales Forecasting for Drug Store Rossmann" |
 | [GitHub](https://github.com/reppertj/image-captioning) | "Image Captioning in Pytorch" By [reppertj](https://github.com/reppertj) |
 | [Blog](https://learn.springboard.com/school-of-data/white-paper/how-a-machine-learning-algorithm-helped-make-hurricane-damage-assessments-safer-cheaper-and-more-effective) | "How a Machine Learning Algorithm Helped Make Hurricane Damage Assessments Safer, Cheaper, and More Effective" |
+| [GitHub](https://github.com/melanierbutler/HAB_Capstone) | "Predictive Modeling of Harmful Algal Blooms in the Western Basin of Lake Erie" By [melanierbutler](https://github.com/melanierbutler) |
+| [GitHub](https://github.com/melanierbutler/cassava) | "Cassava Image Classification" By [melanierbutler](https://github.com/melanierbutler) |
