@@ -54,3 +54,4 @@ Place for collecting great projects/capstones from previous springboard students
 | [Blog](https://learn.springboard.com/school-of-data/white-paper/how-a-machine-learning-algorithm-helped-make-hurricane-damage-assessments-safer-cheaper-and-more-effective) | "How a Machine Learning Algorithm Helped Make Hurricane Damage Assessments Safer, Cheaper, and More Effective" |
 | [GitHub](https://github.com/melanierbutler/HAB_Capstone) | "Predictive Modeling of Harmful Algal Blooms in the Western Basin of Lake Erie" By [melanierbutler](https://github.com/melanierbutler) |
 | [GitHub](https://github.com/melanierbutler/cassava) | "Cassava Image Classification" By [melanierbutler](https://github.com/melanierbutler) |
+| [Blog](https://learn.springboard.com/school-of-data/white-paper/revolutionizing-photography-with-an-ai-based-image-classifier/) | "Revolutionizing Photography with an AI-Based Image Classifier" |
