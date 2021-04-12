@@ -55,3 +55,4 @@ Place for collecting great projects/capstones from previous springboard students
 | [GitHub](https://github.com/melanierbutler/HAB_Capstone) | "Predictive Modeling of Harmful Algal Blooms in the Western Basin of Lake Erie" By [melanierbutler](https://github.com/melanierbutler) |
 | [GitHub](https://github.com/melanierbutler/cassava) | "Cassava Image Classification" By [melanierbutler](https://github.com/melanierbutler) |
 | [Blog](https://learn.springboard.com/school-of-data/white-paper/revolutionizing-photography-with-an-ai-based-image-classifier/) | "Revolutionizing Photography with an AI-Based Image Classifier" |
+| [Blog](https://learn.springboard.com/school-of-data/whitepapers/using-data-analysis-uncover-biases-funding-medical-research/) | "Using Data Analysis to Uncover Biases in Funding for Medical Research" |
