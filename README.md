@@ -56,3 +56,4 @@ Place for collecting great projects/capstones from previous springboard students
 | [GitHub](https://github.com/melanierbutler/cassava) | "Cassava Image Classification" By [melanierbutler](https://github.com/melanierbutler) |
 | [Blog](https://learn.springboard.com/school-of-data/white-paper/revolutionizing-photography-with-an-ai-based-image-classifier/) | "Revolutionizing Photography with an AI-Based Image Classifier" |
 | [Blog](https://learn.springboard.com/school-of-data/whitepapers/using-data-analysis-uncover-biases-funding-medical-research/) | "Using Data Analysis to Uncover Biases in Funding for Medical Research" |
+| [Blog](https://learn.springboard.com/using-netflix-inspired-algorithm-create-recommendation-engine-for-rock-climbers/) | "Using a Netflix-Inspired Algorithm to Create a Recommendation Engine for Rock Climbers" |
