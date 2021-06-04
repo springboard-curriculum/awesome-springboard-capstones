@@ -57,3 +57,5 @@ Place for collecting great projects/capstones from previous springboard students
 | [Blog](https://learn.springboard.com/school-of-data/white-paper/revolutionizing-photography-with-an-ai-based-image-classifier/) | "Revolutionizing Photography with an AI-Based Image Classifier" |
 | [Blog](https://learn.springboard.com/school-of-data/whitepapers/using-data-analysis-uncover-biases-funding-medical-research/) | "Using Data Analysis to Uncover Biases in Funding for Medical Research" |
 | [GitHub](https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/readme.md) | "Development of Real Estate House Prediction Demo App from the Proof of Concept (PoC) to Deployment Stage" By [jayguptacal](https://github.com/jayguptacal) |
+| [Blog](https://learn.springboard.com/using-netflix-inspired-algorithm-create-recommendation-engine-for-rock-climbers/) | "Using A Netflix-Inspired Algorithm To Create A Recommendation Engine For Rock Climbers" |
+| [Blog](https://learn.springboard.com/using-machine-learning-model-bring-black-white-tv-shows-to-life/) | "Using a Machine Learning Model to Bring Black-and-White TV Shows to Life" |
