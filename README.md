@@ -60,3 +60,4 @@ Place for collecting great projects/capstones from previous springboard students
 | [Blog](https://learn.springboard.com/using-netflix-inspired-algorithm-create-recommendation-engine-for-rock-climbers/) | "Using A Netflix-Inspired Algorithm To Create A Recommendation Engine For Rock Climbers" |
 | [Blog](https://learn.springboard.com/using-machine-learning-model-bring-black-white-tv-shows-to-life/) | "Using a Machine Learning Model to Bring Black-and-White TV Shows to Life" |
 | [GitHub](https://github.com/akthammomani/Menara-App-Predict-House-Price-CA), [App](https://share.streamlit.io/akthammomani/streamlit/main/Menara_App.py) | "Menara App for House price estimation, forecast and GreatSchools Search" By [akthammomani](https://github.com/akthammomani) |
+| [GitHub](https://github.com/fontainelam/KneeOsteoarthritis) | "Identifying the Severity of Knee Osteoarthritis in X-Ray Images" By [fontainelam](https://github.com/fontainelam) |
